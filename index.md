@@ -1,3 +1,11 @@
+{div:class=heading}
+Sassanix Profile
+{div}
+
+## Sassanix Profile Page
+
+Welcome to my page, you'd be able to listen to my latest mixes and see my latest creations.
+
 ## Latest Mixes
 
 <iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?feed=%2FSassanix%2F" frameborder="0" ></iframe>
