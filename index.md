@@ -1,7 +1,8 @@
 
-## Sassanix Profile Page
 
-Welcome to my page, you'd be able to listen to my latest mixes and see my latest creations.
+## Official Page
+
+Welcome to my official Sassanix page, you're be able to listen to my latest mixes and see my latest creations. I will be uploading my mixes for direct downloads on here as well for your enjoyment.
 
 ---
 
