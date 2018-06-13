@@ -3,7 +3,9 @@
 
 <head>
 <style>
- img { position: absolute; right: 0px; }
+img {
+    float: left;
+ }
 </style>
 </head>
 <body>
