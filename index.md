@@ -1,6 +1,3 @@
-{div:class=heading}
-Sassanix Profile
-{div}
 
 ## Sassanix Profile Page
 
