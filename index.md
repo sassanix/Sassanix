@@ -19,6 +19,6 @@
 
 Sassan has been mixing different genres of electronic music including trance since 2010 and is eager to make more mixes and enjoys live mixing. Taste varies from relaxing to energetic.
 
-### Support or Contact
+## Follow Me
 
-<iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Fsassanix&color=orange_white&size=56" style="width: 56px; height: 56px;"></iframe>  
+[Mixcloud](http://mixcloud.com) | [Facebook](http://facebook.com/sassanix) | [Soundcloud](http://soundcloud.com/sassanix)
