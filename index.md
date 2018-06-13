@@ -13,7 +13,7 @@
 
 ## Facebook
 
-<div class="fb-page" data-href="https://www.facebook.com/Sassanix/" data-tabs="timeline" data-width="100%" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/Sassanix/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Sassanix/">Sassanix</a></blockquote></div>
+<div class="fb-page" data-href="https://www.facebook.com/Sassanix/" data-tabs="timeline" data-width="700" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/Sassanix/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Sassanix/">Sassanix</a></blockquote></div>
 
 ## About me
 
