@@ -21,12 +21,12 @@ Sassan has been mixing different genres of electronic music including trance sin
 
 ## Contact Me
 
-[Reddit](https://www.reddit.com/message/compose/?to=Sassanix) | [Discord](Sassanix#0801)  
+[Reddit](https://www.reddit.com/message/compose/?to=Sassanix) [Discord](Sassanix#0801)  
 
 ## Follow Me
 
-[Mixcloud](http://mixcloud.com) | [Facebook](http://facebook.com/sassanix) | [Soundcloud](http://soundcloud.com/sassanix)
+[Mixcloud](http://mixcloud.com) [Facebook](http://facebook.com/sassanix) [Soundcloud](http://soundcloud.com/sassanix)
 
-## /r/Trance Discord
+## r/Trance Discord
 
 <iframe src="https://discordapp.com/widget?id=221059079068450816&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
