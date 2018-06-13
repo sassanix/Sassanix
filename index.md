@@ -21,6 +21,4 @@ Sassan has been mixing different genres of electronic music including trance sin
 
 ### Support or Contact
 
-[Facebook](http://facebook.com/sassanix)  
 <iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Fsassanix&color=orange_white&size=56" style="width: 56px; height: 56px;"></iframe>  
-<iframe width="200" height="250" src="https://www.mixcloud.com/widget/follow/?dark=1&u=%2FSassanix%2F" frameborder="0" ></iframe>
