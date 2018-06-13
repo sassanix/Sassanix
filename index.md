@@ -13,7 +13,7 @@ Sassan has been mixing different genres of electronic music including trance sin
 
 ## Contact Me
 
-[Reddit](https://www.reddit.com/message/compose/?to=Sassanix) [Discord](Sassanix#0801)  
+[Reddit](https://www.reddit.com/message/compose/?to=Sassanix) **Discord:Sassanix#0801
 
 ## Follow Me
 
