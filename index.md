@@ -2,8 +2,7 @@
 
 ## Official Page
 
-<img src="LS8Mx.gif" width="200" height="200" alt="Sassanixlogo" class="inline"/>
-Welcome to my official Sassanix page, you're be able to listen to my latest mixes and see my latest creations. I will be uploading my mixes for direct downloads on here as well for your enjoyment.
+<img src="LS8Mx.gif" width="200" height="200" alt="Sassanixlogo" class="inline"/> Welcome to my official Sassanix page, you're be able to listen to my latest mixes and see my latest creations. I will be uploading my mixes for direct downloads on here as well for your enjoyment.
 
 ---
 
