@@ -11,8 +11,9 @@
 
 <iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?feed=%2FSassanix%2F" frameborder="0" ></iframe>
 
-##Facebook
-<div class="fb-page" data-href="https://www.facebook.com/Sassanix/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Sassanix/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Sassanix/">Sassanix</a></blockquote></div>
+## Facebook
+
+<div class="fb-page" data-href="https://www.facebook.com/Sassanix/" data-tabs="timeline" data-width="100%" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/Sassanix/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Sassanix/">Sassanix</a></blockquote></div>
 
 ## About me
 
