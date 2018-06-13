@@ -12,7 +12,7 @@ Welcome to my official Sassanix page, you're be able to listen to my latest mixe
 
 ## About me
 
-Sassan has been mixing different genres of electronic music including trance since 2010 and is eager to make more mixes and enjoys live mixing. Taste varies from relaxing to energetic.
+I started to get into electronic music in 1999 while walking in a mall and hearing PVD's music blasting, since then I've been an advocate and a fan of various musical genres. I have also been mixing different genres of electronic music including trance since 2010 when I felt that I needed to showcase my music to others. I'm excited to make more mixes and hopefully looking to live mix.
 
 ## Contact Me
 
