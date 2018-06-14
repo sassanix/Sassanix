@@ -26,7 +26,7 @@ I started to get into electronic music in 1999 while walking in a mall and heari
 
 ## Contact Me
 
-[Reddit](https://www.reddit.com/message/compose/?to=Sassanix) **Discord:Sassanix#0801**
+[Reddit](https://www.reddit.com/message/compose/?to=Sassanix) [Discord](https://discordapp.com/users/{Sassanix#0801}/)
 
 ## Follow Me
 
