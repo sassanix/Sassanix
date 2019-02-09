@@ -19,7 +19,6 @@ Welcome to the official Sassanix page! Listen to my latest mixes and see my late
 ## Latest Mixes
 
 <iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?feed=%2FSassanix%2F" frameborder="0" ></iframe>
-[Downloads](https://drive.google.com/open?id=0B2fJvz6fSOZLczdfdl9YVTJ3UDA)  
 
 ## About me
 
@@ -30,6 +29,7 @@ I started to get into electronic music in 1999 while walking in a mall and heari
 [Reddit](https://www.reddit.com/message/compose/?to=Sassanix) [Discord](https://discordapp.com/users/Sassanix#0801/)
 
 ## Follow Me
+
 
 <a href="https://www.patreon.com/bePatron?u=13950355" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>  
 
