@@ -1,6 +1,6 @@
 
 ## Official Page
-
+<body>
 <head>
 <style>
 img {
@@ -8,7 +8,6 @@ img {
  }
 </style>
 </head>
-<body>
 <p><img src="LS8Mx.gif" alt="Sassanlogo" style="width:200px;height:200px;margin-right:15px;">
 Welcome to the official Sassanix page! Listen to my latest mixes and see my latest creations. I will be uploading my mixes for direct download on here as well for your enjoyment.</p>
 </body>  
