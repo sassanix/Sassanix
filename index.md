@@ -9,7 +9,7 @@ img {
 </head>
 <body>
 <p><img src="LS8Mx.gif" alt="Sassanlogo" style="width:100px;height:100px;margin-right:15px;">
-Welcome to the official Sassanix page! Listen to my latest mixes and see my latest creations.</p>
+Welcome to the official Sassanix page! Listen to my latest mixes and see my latest creations.                                                     </p>
 </body>  
 
 ---  
