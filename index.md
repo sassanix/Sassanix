@@ -1,10 +1,8 @@
-
 ## Official Page
-
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="LS8Mx.gif" alt="Sassanlogo"> style="width:100px;height:100px;
+    <img src="LS8Mx.gif" alt="Sassanlogo"> style="width:100px; height:100px;>
   </div>
   <div>
     <h2>Some title text</h2>
