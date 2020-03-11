@@ -1,5 +1,3 @@
----
-
 ## Official Page
 
 <div style="clear: both;">
