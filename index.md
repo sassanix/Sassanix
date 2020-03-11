@@ -2,7 +2,6 @@
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
- <img src="LS8Mx.gif" alt="Sassanlogo" style="width:100px;height:100px;margin-right:15px;">
   </div>
   <div>
     <p>Welcome to the official Sassanix page! Listen to my latest mixes and see my latest creations.</p>
@@ -19,6 +18,7 @@
 
 ## About me
 
+ <img src="LS8Mx.gif" alt="Sassanlogo" style="width:100px;height:100px;margin-right:15px;">
 I started to get into electronic music in 1999 while walking in a mall and hearing PVD's music blasting. Since then, I've been an advocate and a fan of various musical genres. I have also been mixing different styles of electronic music, including trance since 2010 when I felt that I needed to showcase my music to others. I'm excited to make more mixes and hopefully looking to live mix. 
 
 ---  
