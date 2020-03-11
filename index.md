@@ -9,7 +9,7 @@ img {
 </head>
 <body>
 <p>
-Welcome to the official Sassanix page! Listen to my latest mixes and see my latest creations. I will be uploading my mixes for direct download on here as well for your enjoyment.</p>
+Welcome to the official Sassanix page! Listen to my latest mixes and see my latest creations.</p>
 </body>  
 
 <body>
