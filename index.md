@@ -2,7 +2,7 @@
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-<img src="LS8Mx.gif" alt="Sassanlogo"> style="width:200px;height:200px;>
+<img src="LS8Mx.gif" alt="Sassanlogo" style="width:100px;height:100px;">
   </div>
   <div>
     <p>Welcome to the official Sassanix page! Listen to my latest mixes and see my latest creations.</p>
