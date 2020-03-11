@@ -1,16 +1,16 @@
 
 ## Official Page
-<head>
-<style>
-img {
-    float: left;
- }
-</style>
-</head>
-<body>
-<p><img src="LS8Mx.gif" alt="Sassanlogo" style="width:100px;height:100px;margin-right:15px;">
-Welcome to the official Sassanix page! Listen to my latest mixes and see my latest creations.                                                     </p>
-</body>  
+
+
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="LS8Mx.gif" alt="Sassanlogo"> style="width:100px;height:100px;
+  </div>
+  <div>
+    <h2>Some title text</h2>
+    <p>Welcome to the official Sassanix page! Listen to my latest mixes and see my latest creations.</p>
+  </div>
+</div>
 
 ---  
 
