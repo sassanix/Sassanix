@@ -34,4 +34,4 @@ I started to get into electronic music in 1999 while walking in a mall and heari
 
 <a href="https://www.patreon.com/bePatron?u=13950355" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>  
 
-<img src="LS8Mx.gif" alt="Sassanlogo" style="width:200px;height:200px;">
+<img src="LS8Mx.gif" alt="Sassanlogo" style="width:200px;height:200px;">{: .center-image }
