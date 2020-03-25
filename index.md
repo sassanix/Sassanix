@@ -1,7 +1,3 @@
-<head>
-<script data-ad-client="ca-pub-9724374258201426" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  
-</head>
-
 ## Official Page
 
 <div style="clear: both;">
