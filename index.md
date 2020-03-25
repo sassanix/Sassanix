@@ -1,5 +1,7 @@
 <head>
 <script data-ad-client="ca-pub-9724374258201426" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  
+</head>
+
 ## Official Page
 
 <div style="clear: both;">
@@ -42,4 +44,3 @@ I started to get into electronic music in 1999 while walking in a mall and heari
 [Mixcloud](http://mixcloud.com) [Spotify](https://open.spotify.com/user/sassanix?si=AXINLMyWTvCfRKCKaWUxTw) [Facebook](http://facebook.com/sassanix) [Soundcloud](http://soundcloud.com/sassanix) [Reddit](http://reddit.com/r/sassanix)
 
 <a href="https://www.patreon.com/bePatron?u=13950355" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>  
-</head>
