@@ -8,12 +8,16 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            color: #333;
+            color: #DDD; /* Lighter text for better readability */
+            background-color: #222; /* Adjust if your background is different */
+            line-height: 1.6;
         }
         .container {
             width: 90%;
             margin: auto;
             overflow: hidden;
+            border-bottom: 2px solid #444; /* Subtle line for separation */
+            padding-bottom: 20px; /* Space below sections */
         }
         header {
             background: #333;
@@ -49,6 +53,7 @@
             color: #fff;
             text-align: center;
             padding: 20px 0;
+            border-top: 2px solid #444; /* Consistent with section separation */
         }
         @media (max-width: 600px) {
             nav, .container, header {
@@ -113,4 +118,3 @@
     </footer>
 </body>
 </html>
-
