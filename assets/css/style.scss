@@ -6,3 +6,71 @@
 header {
   display: none;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #DDD; /* Lighter text for better readability */
+    background-color: #222; /* Adjust if your background is different */
+    line-height: 1.6;
+}
+.container {
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    border-bottom: 2px solid #444; /* Subtle line for separation */
+    padding-bottom: 20px; /* Space below sections */
+}
+header {
+    background: #333;
+    color: #fff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #0779e4 3px solid;
+}
+header a {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+nav {
+    float: right;
+    margin-top: 10px;
+}
+nav a {
+    margin-left: 20px;
+}
+.content, .mixes, .about, .contact {
+    padding: 20px 0;
+    clear: both;
+}
+.content img, .about img {
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    border-top: 2px solid #444; /* Consistent with section separation */
+}
+@media (max-width: 600px) {
+    nav, .container, header {
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+    nav a {
+        display: block;
+        margin: 0;
+    }
+    .content img, .about img {
+        margin: auto;
+        float: none;
+        display: block;
+    }
+}
