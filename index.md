@@ -1,4 +1,3 @@
-html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -115,5 +114,4 @@ html
     </footer>
 </body>
 </html>
-```
 
