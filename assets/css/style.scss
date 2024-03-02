@@ -4,5 +4,6 @@
 @import "{{ site.theme }}";
 
 header {
-  display: none;
+    display: block; /* or display: flex; */
 }
+
