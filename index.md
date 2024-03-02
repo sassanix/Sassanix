@@ -1,40 +1,119 @@
-## Official Page
-
-<div style="clear: both;">
-  <div style="float: left; margin-right 1em;">
-  </div>
-  <div>
-    <p>Welcome to the official Sassanix page! Listen to my latest mixes and see my latest creations.</p>
-  </div>
-</div>
-
----  
-
-## Latest Mixes
-
-<iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?feed=%2FSassanix%2F" frameborder="0" ></iframe>
-
----  
-## About me
-
+html
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<style>
-img {
-    float: left;
- }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sassanix Official Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        .container {
+            width: 90%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #0779e4 3px solid;
+        }
+        header a {
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+        nav {
+            float: right;
+            margin-top: 10px;
+        }
+        nav a {
+            margin-left: 20px;
+        }
+        .content, .mixes, .about, .contact {
+            padding: 20px 0;
+            clear: both;
+        }
+        .content img, .about img {
+            float: left;
+            margin-right: 20px;
+            border-radius: 50%;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+        @media (max-width: 600px) {
+            nav, .container, header {
+                float: none;
+                text-align: center;
+                width: 100%;
+            }
+            nav a {
+                display: block;
+                margin: 0;
+            }
+            .content img, .about img {
+                margin: auto;
+                float: none;
+                display: block;
+            }
+        }
+    </style>
 </head>
 <body>
-<p><img src="LS8Mx.gif" alt="Sassanlogo" style="width:100px;height:100px;margin-right:15px;">
-I started to get into electronic music in 1999 while walking in a mall and hearing PVD's music blasting. Since then, I've been an advocate and a fan of various musical genres. I have also been mixing different styles of electronic music, including trance since 2010 when I felt that I needed to showcase my music to others. I'm excited to make more mixes and hopefully looking to live mix.</p>
-</body>  
+    <header>
+        <div class="container">
+            <h1>Sassanix Official Page</h1>
+            <nav>
+                <a href="#mixes">Latest Mixes</a>
+                <a href="#about">About Me</a>
+                <a href="#contact">Contact Me</a>
+            </nav>
+        </div>
+    </header>
 
----  
-## Contact Me
+    <div class="container content">
+        <h2>Welcome</h2>
+        <p>Welcome to the official Sassanix page! Listen to my latest mixes and see my latest creations.</p>
+    </div>
 
-[Reddit](https://www.reddit.com/message/compose/?to=Sassanix) [Discord](https://discordapp.com/users/Sassanix#0801/)
+    <div class="container mixes" id="mixes">
+        <h2>Latest Mixes</h2>
+        <iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?feed=%2FSassanix%2F" frameborder="0"></iframe>
+    </div>
 
----  
-## Follow Me
+    <div class="container about" id="about">
+        <h2>About Me</h2>
+        <img src="LS8Mx.gif" alt="Sassanix Logo" style="width:100px;height:100px;">
+        <p>I started to get into electronic music in 1999 while walking in a mall and hearing PVD's music blasting. Since then, I've been an advocate and a fan of various musical genres. I have also been mixing different styles of electronic music, including trance since 2010 when I felt that I needed to showcase my music to others. I'm excited to make more mixes and hopefully looking to live mix.</p>
+    </div>
 
-[Mixcloud](http://mixcloud.com/sassanix) [Spotify](https://open.spotify.com/user/sassanix?si=AXINLMyWTvCfRKCKaWUxTw) [Facebook](http://facebook.com/sassanix) [Soundcloud](http://soundcloud.com/sassanix) [Reddit](http://reddit.com/r/sassanix)
+    <div class="container contact" id="contact">
+        <h2>Contact Me</h2>
+        <p>Feel free to reach out to me through any of the following platforms:</p>
+        <a href="https://www.reddit.com/message/compose/?to=Sassanix">Reddit</a> |
+        <a href="https://discordapp.com/users/Sassanix#0801/">Discord</a> |
+        <a href="http://mixcloud.com/sassanix">Mixcloud</a> |
+        <a href="https://open.spotify.com/user/sassanix">Spotify</a> |
+        <a href="http://facebook.com/sassanix">Facebook</a> |
+        <a href="http://soundcloud.com/sassanix">Soundcloud</a> |
+        <a href="http://reddit.com/r/sassanix">Reddit Community</a>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Sassanix Music. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+```
+
