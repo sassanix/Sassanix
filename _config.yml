@@ -2,4 +2,4 @@ theme: jekyll-theme-hacker
 title: Sassanix Official Page
 description: Listen to my latest mixes and see my latest creations.
 github:
-  is_project_page: false
+is_project_page: false
