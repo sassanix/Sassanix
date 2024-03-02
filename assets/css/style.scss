@@ -2,10 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-.site-header {
-    display: none;
-}
-
 header {
     display: block; /* or display: flex; */
 }
