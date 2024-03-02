@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -20,14 +19,14 @@
             border-bottom: 2px solid #444; /* Subtle line for separation */
             padding-bottom: 20px; /* Space below sections */
         }
-        header {
+        .page-header {
             background: #333;
             color: #fff;
             padding-top: 30px;
             min-height: 70px;
             border-bottom: #0779e4 3px solid;
         }
-        header a {
+        .page-header a {
             color: #fff;
             text-decoration: none;
             text-transform: uppercase;
@@ -57,7 +56,7 @@
             border-top: 2px solid #444; /* Consistent with section separation */
         }
         @media (max-width: 600px) {
-            nav, .container, header {
+            nav, .container, .page-header {
                 float: none;
                 text-align: center;
                 width: 100%;
@@ -75,7 +74,7 @@
     </style>
 </head>
 <body>
-    <header>
+    <div class="page-header">
         <div class="container">
             <h1>Sassanix Official Page</h1>
             <nav>
@@ -84,7 +83,7 @@
                 <a href="#contact">Contact Me</a>
             </nav>
         </div>
-    </header>
+    </div>
 
     <div class="container content">
         <h2>Welcome</h2>
