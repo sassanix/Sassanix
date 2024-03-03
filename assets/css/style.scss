@@ -41,5 +41,7 @@ header {
         margin: auto;
         float: none;
         display: block;
+        width: 100px; /* Fixed width for the about section images */
+        height: auto; /* Auto-adjust height to maintain aspect ratio */
     }
 }
