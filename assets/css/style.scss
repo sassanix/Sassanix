@@ -15,4 +15,23 @@ header {
     border-bottom: #0779e4 3px solid; /* Blue bottom border */
 }
 
-/* Include additional styles below as needed, maintaining the same structure. */
+@media (max-width: 600px) {
+    nav, .container, .page-header {
+        float: none;
+        text-align: center; /* Keeps your navigation and header centered */
+        width: 100%;
+    }
+    .content, .mixes, .about, .contact {
+        text-align: left; /* Aligns text to the left in these sections */
+    }
+    nav a {
+        display: block;
+        margin: 0;
+        text-align: center; /* Keeps your navigation links centered */
+    }
+    .content img, .about img {
+        margin: auto;
+        float: none;
+        display: block;
+    }
+}
