@@ -18,11 +18,12 @@ header {
 @media (max-width: 600px) {
     nav, .container, .page-header {
         float: none;
-        text-align: center; /* Keeps your navigation and header centered */
+        text-align: center;
         width: 100%;
     }
     .content, .mixes, .about, .contact {
-        text-align: left; /* Aligns text to the left in these sections */
+        text-align: left; /* This aligns text to the left in these sections */
+        padding: 20px; /* Adds padding around the text */
     }
     nav a {
         display: block;
@@ -35,3 +36,4 @@ header {
         display: block;
     }
 }
+
