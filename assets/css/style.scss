@@ -1,7 +1,7 @@
 @import "{{ site.theme }}";
 
 header {
-  display: none; /* This ensures that the default header from the theme is not displayed */
+    display: none !important;
 }
 
 .page-header {
