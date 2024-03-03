@@ -61,9 +61,13 @@
                 text-align: center;
                 width: 100%;
             }
+            .content, .mixes, .about, .contact {
+                text-align: left; /* This aligns text to the left in these sections */
+            }
             nav a {
                 display: block;
                 margin: 0;
+                text-align: center; /* Keeps your navigation links centered */
             }
             .content img, .about img {
                 margin: auto;
