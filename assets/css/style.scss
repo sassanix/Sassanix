@@ -46,11 +46,10 @@ header {
         text-align: center; /* Centers navigation links */
     }
     .content img, .about img, .about-logo {
-        margin: auto;
-        float: none;
-        display: block;
-        width: 80px; /* Adjusted width for the about section images in portrait mode */
+        width: 80px; /* Adjusted width for portrait mode */
         height: auto; /* Auto-adjust height to maintain aspect ratio */
+        margin: 0 20px 20px 0; /* Spacing around the image */
+        float: left; /* Aligns image to the left of the text */
     }
 }
 
