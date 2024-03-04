@@ -15,7 +15,7 @@ header {
     border-bottom: #0779e4 3px solid; /* Blue bottom border */
 }
 
-/* General styling for images, especially in the .about section */
+/* General styling for images */
 .about img, .about-logo {
     width: 100px; /* Adjust the width as needed */
     height: auto; /* Maintains aspect ratio */
@@ -46,16 +46,17 @@ header {
         text-align: center; /* Centers navigation links */
     }
     .content img, .about img, .about-logo {
-        width: 80px; /* Adjusted width for portrait mode */
+        float: left; /* Keeps the image on the left also in portrait mode */
+        display: inline-block; /* Changes display to inline-block */
+        width: 80px; /* Suitable width for portrait mode */
         height: auto; /* Auto-adjust height to maintain aspect ratio */
-        margin: 0 20px 20px 0; /* Spacing around the image */
-        float: left; /* Aligns image to the left of the text */
+        margin: 0 20px 20px 0; /* Adjust margins to ensure proper spacing */
     }
 }
 
 @media (orientation: landscape) {
     .about img, .about-logo {
-        max-width: 80px; /* Maintains size consistency in landscape mode */
+        max-width: 80px; /* Adjusts the size for landscape mode */
         float: left; /* Ensures the image floats next to text */
         margin-right: 20px; /* Space between the image and text */
         margin-bottom: 0; /* Ensures there is no bottom margin pushing content */
