@@ -17,7 +17,7 @@ header {
 
 /* General styling for images, especially in the .about section */
 .about img, .about-logo {
-    max-width: 100px; /* Limits the maximum width */
+    width: 100px; /* Adjust the width as needed */
     height: auto; /* Maintains aspect ratio */
     border-radius: 50%; /* Ensures the image is round */
     margin-right: 20px; /* Space between the image and text */
@@ -49,14 +49,14 @@ header {
         margin: auto;
         float: none;
         display: block;
-        width: 300px; /* Adjusted width for the about section images in portrait mode */
+        width: 80px; /* Adjusted width for the about section images in portrait mode */
         height: auto; /* Auto-adjust height to maintain aspect ratio */
     }
 }
 
 @media (orientation: landscape) {
     .about img, .about-logo {
-        max-width: 100px; /* Maintains size consistency in landscape mode */
+        max-width: 80px; /* Maintains size consistency in landscape mode */
         float: left; /* Ensures the image floats next to text */
         margin-right: 20px; /* Space between the image and text */
         margin-bottom: 0; /* Ensures there is no bottom margin pushing content */
