@@ -56,7 +56,7 @@ header {
 
 @media (orientation: landscape) {
     .about img, .about-logo {
-        max-width: 80px; /* Maintains size consistency in landscape mode */
+        max-width: 100px; /* Maintains size consistency in landscape mode */
         float: left; /* Ensures the image floats next to text */
         margin-right: 20px; /* Space between the image and text */
         margin-bottom: 0; /* Ensures there is no bottom margin pushing content */
