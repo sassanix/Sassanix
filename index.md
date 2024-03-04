@@ -104,7 +104,7 @@
 
     <div class="container about" id="about">
         <h2>About Me</h2>
-        <img src="LS8Mx.gif" alt="Sassanix Logo" class="about-logo" style="width:100px;height:100px;"> <!-- Add 'about-logo' class -->
+        <img src="LS8Mx.gif" alt="Sassanix Logo" class="about-logo">
         <p>I started to get into electronic music in 1999 while walking in a mall and hearing PVD's music blasting. Since then, I've been an advocate and a fan of various musical genres. I have also been mixing different styles of electronic music, including trance since 2010 when I felt that I needed to showcase my music to others. I'm excited to make more mixes and hopefully looking to live mix.</p>
     </div>
 
