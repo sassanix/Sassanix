@@ -15,33 +15,50 @@ header {
     border-bottom: #0779e4 3px solid; /* Blue bottom border */
 }
 
+/* General styling for images, especially in the .about section */
+.about img, .about-logo {
+    max-width: 100px; /* Limits the maximum width */
+    height: auto; /* Maintains aspect ratio */
+    border-radius: 50%; /* Ensures the image is round */
+    margin-right: 20px; /* Space between the image and text */
+    float: left; /* Aligns image to the left of the text */
+}
+
 @media (max-width: 600px) {
     .container, img, iframe, .content, .mixes, .about, .contact {
         max-width: 100%;
-        margin: 0 auto; /* Centers the element if it's smaller than the screen */
-        padding: 0 20px; /* Adds padding while ensuring elements don't extend beyond the viewport */
-        box-sizing: border-box; /* Ensures padding doesn't add to the total width */
+        margin: 0 auto; /* Centers the elements */
+        padding: 0 20px; /* Adds padding */
+        box-sizing: border-box; /* Adjusts box-sizing */
     }
 
-    /* Make sure images and iframes are not wider than the screen */
     img, iframe {
-        height: auto; /* Maintain aspect ratio */
+        height: auto; /* Ensures proper aspect ratio */
     }
 
     .content, .mixes, .about, .contact {
-        text-align: left; /* Aligns text to the left in these sections */
+        text-align: left;
         padding: 20px; /* Adds padding around the text */
     }
     nav a {
         display: block;
         margin: 0;
-        text-align: center; /* Keeps your navigation links centered */
+        text-align: center; /* Centers navigation links */
     }
     .content img, .about img, .about-logo {
         margin: auto;
         float: none;
         display: block;
-        width: 100px; /* Fixed width for the about section images */
+        width: 50px; /* Smaller width for mobile screens */
         height: auto; /* Auto-adjust height to maintain aspect ratio */
+    }
+}
+
+@media (orientation: landscape) {
+    .about img, .about-logo {
+        max-width: 80px; /* Adjusts the size for landscape mode */
+        float: left; /* Ensures the image floats next to text */
+        margin-right: 20px; /* Space between the image and text */
+        margin-bottom: 0; /* Ensures there is no bottom margin pushing content */
     }
 }
