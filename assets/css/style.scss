@@ -8,57 +8,51 @@ header {
 }
 
 .page-header {
-    background: #333; /* Dark background for the header section */
-    color: #fff; /* White text color */
-    padding-top: 30px; /* Space above the content in the header */
-    min-height: 70px; /* Minimum height for the header */
-    border-bottom: #0779e4 3px solid; /* Blue bottom border */
+    background: #333;
+    color: #fff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #0779e4 3px solid;
+
+    @media (max-width: 600px) {
+        /* Adjustments for mobile, if any */
+    }
 }
 
-/* General styling for images */
 .about img, .about-logo {
-    width: 100px; /* Adjust the width as needed */
-    height: auto; /* Maintains aspect ratio */
-    border-radius: 50%; /* Ensures the image is round */
-    margin-right: 20px; /* Space between the image and text */
-    float: left; /* Aligns image to the left of the text */
+    width: 100px;
+    height: auto;
+    border-radius: 50%;
+    margin-right: 20px;
+    float: left;
+
+    @media (max-width: 600px), (orientation: landscape) {
+        float: left;
+        width: 80px;
+        margin-right: 20px;
+        margin-bottom: 0;
+    }
 }
 
 @media (max-width: 600px) {
     .container, img, iframe, .content, .mixes, .about, .contact {
         max-width: 100%;
-        margin: 0 auto; /* Centers the elements */
-        padding: 0 20px; /* Adds padding */
-        box-sizing: border-box; /* Adjusts box-sizing */
+        margin: 0 auto;
+        padding: 0 20px;
+        box-sizing: border-box;
     }
 
     img, iframe {
-        height: auto; /* Ensures proper aspect ratio */
+        height: auto;
     }
 
     .content, .mixes, .about, .contact {
         text-align: left;
-        padding: 20px; /* Adds padding around the text */
+        padding: 20px;
     }
+    
     nav a {
         display: block;
-        margin: 0;
-        text-align: center; /* Centers navigation links */
-    }
-    .content img, .about img, .about-logo {
-        float: left; /* Keeps the image on the left also in portrait mode */
-        display: inline-block; /* Changes display to inline-block */
-        width: 80px; /* Suitable width for portrait mode */
-        height: auto; /* Auto-adjust height to maintain aspect ratio */
-        margin: 0 20px 20px 0; /* Adjust margins to ensure proper spacing */
-    }
-}
-
-@media (orientation: landscape) {
-    .about img, .about-logo {
-        max-width: 80px; /* Adjusts the size for landscape mode */
-        float: left; /* Ensures the image floats next to text */
-        margin-right: 20px; /* Space between the image and text */
-        margin-bottom: 0; /* Ensures there is no bottom margin pushing content */
+        text-align: center;
     }
 }
