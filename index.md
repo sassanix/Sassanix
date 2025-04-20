@@ -119,11 +119,27 @@
         <a href="http://soundcloud.com/sassanix">Soundcloud</a> |
         <a href="http://reddit.com/r/sassanix">Reddit Community</a>
     </div>
+    <!-- Buy Me a Coffee Button -->
+<div style="text-align: center; margin: 40px 0;">
+  <script
+    type="text/javascript"
+    src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js"
+    data-name="bmc-button"
+    data-slug="sassanix"
+    data-color="#FFDD00"
+    data-emoji=""
+    data-font="Arial"
+    data-text="Buy me a coffee"
+    data-outline-color="#000000"
+    data-font-color="#000000"
+    data-coffee-color="#ffffff">
+  </script>
+</div>
 
-    <footer>
-        <p>&copy; 2024 Sassanix Music. All rights reserved.</p>
-    </footer>
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="sassanix" data-color="#FFDD00" data-emoji=""  data-font="Arial" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script></body>
+<footer>
+    <p>&copy; 2025 Sassanix Music. All rights reserved.</p>
+</footer>
+</body>
 </html>
 
 
