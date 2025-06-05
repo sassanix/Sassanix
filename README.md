@@ -14,7 +14,8 @@
 
 ## 🌟 Featured Project
 
-### [Warracker](https://github.com/sassanix/warracker)
+### <img src="https://github.com/user-attachments/assets/2132a842-4233-4d37-8fde-b2d23353ed76" width="20"/>
+ [Warracker](https://github.com/sassanix/warracker)
 A project close to my heart—check it out and see what I’ve been building lately!
 
 ---
