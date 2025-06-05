@@ -1,7 +1,7 @@
 # Hi, I’m Sassanix 👋
 
 💻 **Home Lab Enthusiast** | 🖥️ I eat, breathe, and live technology  
-🚀 Always building, always sharing — from programming to DevOps, I love it all!
+🚀 Always building, always sharing, from programming to DevOps, I love it all!
 
 ---
 
