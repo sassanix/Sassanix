@@ -1,70 +1,39 @@
-# Sassanix Official Music Page
+# Hi, I’m Sassanix 👋
 
-Welcome to the repository for the Sassanix official music page, where you can listen to my latest mixes and see my latest creations.
+💻 **Home Lab Enthusiast** | 🖥️ I eat, breathe, and live technology  
+🚀 Always building, always sharing — from programming to DevOps, I love it all!
 
-This site is built with the [Hacker theme](https://github.com/pages-themes/hacker) for GitHub Pages. The Hacker theme is designed to look like your favourite terminal environment, providing a familiar workspace for documentation and blogging.
+---
 
-## Installation
+## 🔧 Tech Passion
+- **OS:** Debian lover
+- **Containerization:** Docker aficionado
+- **DevOps & Automation:** Always tinkering and optimizing
 
-You can clone this repository to create a local copy on your computer and preview the site in your web browser.
+---
 
-### Prerequisites
+## 🌟 Featured Project
 
-- Git
-- Ruby
-- Bundler
+### [Warracker](https://github.com/sassanix/warracker)
+A project close to my heart—check it out and see what I’ve been building lately!
 
-### Steps
+---
 
-1. Clone the repository:
+## 🎵 More Than Code
 
-```bash
-git clone https://github.com/sassanix/Sassanix.git
-cd Sassanix
-```
+- I share my music and my projects at [sassanix.com](https://sassanix.com)
+- Always eager to help others on their tech journey
 
-2. Install the Jekyll and bundler gems:
+---
 
-```bash
-gem install jekyll bundler
-```
+## ☕ Support My Work
 
-3. Install dependencies from the Gemfile:
+If you enjoy what I do or find my projects helpful, you can [buy me a coffee](https://buymeacoffee.com/sassanix) and support more creative endeavors!
 
-```bash
-bundle install
-```
+---
 
-4. Build the site and make it available on a local server:
+> “I hope to help as many people out there as possible.”
 
-```bash
-bundle exec jekyll serve
-```
+---
 
-5. Now browse to [http://localhost:4000](http://localhost:4000)
-
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Email - [sassanix[at]duck.com](mailto:sassanix@duck.com)
-
-Project Link: [https://github.com/sassanix/sassanix](https://github.com/sassanix/sassanix)
-
-## Acknowledgements
-
-- [GitHub Pages](https://pages.github.com/)
-- [Hacker Theme](https://github.com/pages-themes/hacker)
-- [Jekyll](https://jekyllrb.com/)
+**Let’s connect and build something awesome!**
