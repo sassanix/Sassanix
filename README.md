@@ -13,7 +13,7 @@ I live and breathe tech , from code to containers, automation to DevOps.
 
 ## 🚀 Featured Project
 
-### <img src="https://github.com/user-attachments/assets/2132a842-4233-4d37-8fde-b2d23353ed76" width="20"/> [**Warracker**](https://github.com/sassanix/warracker) – My favorite build so far. Give it a ⭐ if you like it!
+### <img src="https://github.com/user-attachments/assets/2132a842-4233-4d37-8fde-b2d23353ed76" width="20"/> [**Warracker**](https://github.com/sassanix/warracker) – My favourite build so far. Give it a ⭐ if you like it!
 
 ---
 
