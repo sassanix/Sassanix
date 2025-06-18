@@ -1,7 +1,9 @@
 # Hi, I’m Sassanix 👋
 
-💻 **Home Lab Enthusiast** | 🛠️ Tech Tinkerer | 🚀 Builder at Heart  
-I live and breathe tech , from code to containers, automation to DevOps.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Home+Lab+Enthusiast;Tech+Tinkerer;Automation+Nerd;Builder+at+Heart)](https://github.com/sassanix)
+
+💻 _I live and breathe tech – from code to containers, automation to DevOps._
+
 
 ---
 
