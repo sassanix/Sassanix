@@ -194,10 +194,13 @@ section { scroll-margin-top: 84px; }
   gap: 24px;
   align-items: flex-start;
 }
+/* Hacker mobile CSS adds 20px side padding to every img, which squeezes the logo into an oval on phones. Clear it here. */
 .logo-img {
   width: 120px;
   height: 120px;
   flex-shrink: 0;
+  padding: 0;
+  margin: 0;
   border-radius: 50%;
   object-fit: cover;
   border: 1px solid var(--border);
