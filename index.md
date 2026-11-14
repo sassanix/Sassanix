@@ -432,7 +432,7 @@ data-coffee-color="#ffffff">
 </main>
 <footer>
 <div class="wrap">
-<p>&copy; 2026 Sassanix Music. All rights reserved.</p>
+<p>&copy; 2026 Sassanix. All rights reserved.</p>
 </div>
 </footer>
 </body>
