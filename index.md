@@ -221,9 +221,35 @@ section { scroll-margin-top: 84px; }
   list-style: none;
 }
 .project {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
   padding: 16px 0;
   border-top: 1px solid var(--border);
 }
+/* Project logos. Padding and margin are cleared here for the same reason as .logo-img: Hacker mobile CSS adds 20px side padding to every img. */
+.project-logo {
+  width: 56px;
+  height: 56px;
+  flex-shrink: 0;
+  padding: 0;
+  margin: 0;
+  object-fit: contain;
+}
+.weather-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  color: var(--cream);
+}
+.weather-logo svg {
+  width: 32px;
+  height: 32px;
+}
+.project-body { min-width: 0; }
 .project:first-child { border-top: 0; padding-top: 4px; }
 .project:last-child { padding-bottom: 0; }
 .project h3 {
@@ -348,18 +374,25 @@ footer {
 <p class="section-note">Recent open source work, most recently updated first.</p>
 <ul class="project-list">
 <li class="project">
+<img class="project-logo" src="warracker-logo.png" alt="Warracker logo" width="56" height="56" decoding="async">
+<div class="project-body">
 <h3>Warracker</h3>
 <p>An open source, self-hostable warranty tracker to monitor expirations, store receipts, and files. You own the data, your rules.</p>
 <div class="project-links">
 <a href="https://warracker.com" target="_blank" rel="noopener">Visit warracker.com</a>
 <a href="https://github.com/sassanix/Warracker" target="_blank" rel="noopener">View on GitHub</a>
 </div>
+</div>
 </li>
 <li class="project">
+<!-- Weather icon: Lucide cloud-sun, ISC licence. -->
+<span class="project-logo weather-logo" aria-hidden="true"><svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 2v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="M20 12h2"/><path d="m19.07 4.93-1.41 1.41"/><path d="M15.947 12.65a4 4 0 0 0-5.925-4.128"/><path d="M13 22H7a5 5 0 1 1 4.9-6H13a3 3 0 0 1 0 6Z"/></svg></span>
+<div class="project-body">
 <h3>wttrterminal</h3>
 <p>Weather in your terminal using wttr.in, with setup for Windows PowerShell and Linux Bash.</p>
 <div class="project-links">
 <a href="https://github.com/sassanix/wttrterminal" target="_blank" rel="noopener">View on GitHub</a>
+</div>
 </div>
 </li>
 </ul>
