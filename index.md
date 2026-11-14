@@ -366,6 +366,7 @@ footer {
 <li><a href="https://www.reddit.com/r/sassanix" target="_blank" rel="noopener">Reddit Community</a></li>
 </ul>
 </section>
+<!-- Buy Me a Coffee button. No defer: the script does not render the button with defer. -->
 <div class="coffee">
 <script
 type="text/javascript"
@@ -378,8 +379,7 @@ data-font="Arial"
 data-text="Buy me a coffee"
 data-outline-color="#000000"
 data-font-color="#000000"
-data-coffee-color="#ffffff"
-defer>
+data-coffee-color="#ffffff">
 </script>
 </div>
 </main>
