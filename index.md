@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- No DOCTYPE here: Jekyll wraps this file in the Hacker layout, and a DOCTYPE inside the layout body renders as visible text. -->
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -41,8 +41,10 @@ body {
 h1, h2, h3 {
   color: var(--text);
   font-family: inherit;
+  font-weight: 700;
+  text-shadow: none;
 }
-a { color: var(--accent); }
+a { color: var(--accent); text-shadow: none; }
 a:hover { color: #7dbdff; }
 a:focus-visible {
   outline: 2px solid var(--accent);
@@ -70,7 +72,7 @@ a:focus-visible {
   position: sticky;
   top: 0;
   z-index: 5;
-  background: rgba(16, 17, 20, 0.88);
+  background: var(--bg);
   border-bottom: 1px solid var(--border);
 }
 .site-header .wrap {
@@ -118,6 +120,10 @@ a:focus-visible {
   letter-spacing: -0.02em;
   color: var(--text);
   font-family: inherit;
+}
+/* Hacker sets #main_content h1 to 30px with ID specificity. This restores the hero size. */
+#main_content .hero h1 {
+  font-size: clamp(42px, 6vw, 60px);
 }
 .hero p {
   margin: 0 0 24px;
@@ -204,6 +210,10 @@ section { scroll-margin-top: 84px; }
   padding: 0;
   list-style: none;
 }
+/* Hacker sets a bullet image directly on ul li, which beats the inherited list-style above. Clear it on the items. */
+.project-list li, .contact-list li {
+  list-style: none;
+}
 .project {
   padding: 16px 0;
   border-top: 1px solid var(--border);
@@ -266,8 +276,17 @@ footer {
   .card { padding: 20px; }
   .about-layout { flex-direction: column; }
   .player { height: 360px; }
-  .site-header .wrap { min-height: 58px; }
+  /* Phone: stack the wordmark above the nav so the nav gets full width instead of squeezing into four tall rows beside it. */
+  .site-header .wrap {
+    flex-direction: column;
+    justify-content: center;
+    gap: 2px;
+    min-height: 0;
+    padding: 10px 20px;
+  }
+  .site-nav { justify-content: center; gap: 2px 14px; }
   .site-nav a { font-size: 13px; }
+  section { scroll-margin-top: 118px; }
 }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
